@@ -32,3 +32,9 @@ margin-right: 10px;
 .header-container .logo img{
     height: 100%;
 }
+
+.search {
+    width: 100%;
+    max-width: 1250px;
+    margin: 0 auto;
+}
