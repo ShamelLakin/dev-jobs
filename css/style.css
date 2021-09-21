@@ -49,6 +49,7 @@ header {
     border-radius: 10px;
     border: 2px solid #222328;
     display: flex;
+    overflow: hidden;
 }
 
 .input-container {
@@ -73,9 +74,9 @@ header {
 }
 
 .button-container {
- background-color: #3060FF;
- width: 100px;
- display: flex;
- justify-content: center;
- align-items: center;
+    background-color: #3060FF;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
